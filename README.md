@@ -4,4 +4,4 @@
 
 ### What is DOCTYPE?
 
-* A keyword that alerts the bouwser how to process a file.
+* A keyword that alerts the browser how to process a file.
