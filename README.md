@@ -14,3 +14,15 @@
 ### What is the difference between span and div?
 
 *
+
+### What is the data-* attribute?
+
+## CSS
+
+### What is the difference between background and background-color?
+
+*
+
+### What is @ in CSS?
+
+*
